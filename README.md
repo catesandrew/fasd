@@ -1,3 +1,5 @@
+> NOTE: This is a fork of `fasd`, that merges in some pending pull requests.
+
 # Fasd
 
 Fasd (pronounced similar to "fast") is a command-line productivity booster.
